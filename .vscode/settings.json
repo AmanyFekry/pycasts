@@ -1,0 +1,8 @@
+
+ {
+    "reportMissingImports": "none",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultKeybindings": false,
+    "workbench.settings.openDefaultSettings": false,
+    "workbench.settings.useSplitJSON": true,
+}
